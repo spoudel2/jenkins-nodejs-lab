@@ -1,7 +1,7 @@
 #!/bin/sh
 echo "hello world"
 echo "This is my first app"
-ssh app@ip-52.207.238.179<<EOF
+ssh app@ip-172-31-45-45<<EOF
   cd ~/jenkins-nodejs-lab
   git pull
   npm install
