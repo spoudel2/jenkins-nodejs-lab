@@ -1,5 +1,6 @@
 #!/bin/sh
 echo "hello world"
+echo "This is my first app"
 ssh app@ip-52.207.238.179<<EOF
   cd ~/jenkins-nodejs-lab
   git pull
