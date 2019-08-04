@@ -1,4 +1,5 @@
 #!/bin/sh
+echo "hello"
 echo "Binod bro rocks"
 echo "hello world"
 echo "This is my first app"
